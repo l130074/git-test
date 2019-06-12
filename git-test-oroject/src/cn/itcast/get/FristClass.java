@@ -9,4 +9,9 @@ public class FristClass {
         System.out.println("chishi git");
         System.out.println("chishi git");
     }
+    public void test(){
+       int a=10;
+
+
+    }
 }
